@@ -1,2 +1,3 @@
 Welcome to the GIT-HUB Tutorial
- adding line to merge conflict
+
+-git hub tutorial going fine and sane
